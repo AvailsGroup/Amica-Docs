@@ -34,7 +34,7 @@ https://rubyinstaller.org/downloads/archives/
 
 こちらからRuby+Devkit InstallersもしくはRubyInstallersの3.0.1をダウンロード、インストールしてください。
 
-![image0](https://github.com/AvailsGroup/Amica-Docs/images/image0.png "image0")
+![image0](https://github.com/AvailsGroup/Amica-Docs/blob/master/images/image0.png "image0")
 
 詳しいインストール方法は各自調べてみてください。
 
@@ -54,6 +54,6 @@ yarnの公式サイトからインストーラをダウンロード、インス�
 
 https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 
-![image1](https://github.com/AvailsGroup/Amica-Docs/images/image1.png "image1")
+![image1](https://github.com/AvailsGroup/Amica-Docs/blob/master/images/image1.png "image1")
 
 わかりにくいですが「Alternatives」の「Click to expand / collapse」をクリックするとインストーラをダウンロードできます。
