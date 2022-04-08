@@ -10,6 +10,7 @@ Amicaを使用するにあたって、開発環境や必要なソフトウェア
     - [Ruby](#ruby)
     - [node](#node)
     - [yarn](#yarn)
+  - [推奨ソフトウェア](#推奨ソフトウェア)
 
 
 # インストール
@@ -57,3 +58,8 @@ https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 ![image1](https://github.com/AvailsGroup/Amica-Docs/blob/master/images/image1.png "image1")
 
 わかりにくいですが「Alternatives」の「Click to expand / collapse」をクリックするとインストーラをダウンロードできます。
+
+## 推奨ソフトウェア 
+
+git
+
