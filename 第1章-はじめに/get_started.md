@@ -11,13 +11,18 @@ Amicaを使用するにあたって、開発環境や必要なソフトウェア
     - [node](#node)
     - [yarn](#yarn)
   - [推奨ソフトウェア](#推奨ソフトウェア)
+    - [git](#git)
+    - [RubyMine](#rubymine)
+    - [VisualStudioCode](#visualstudiocode)
+  - [上級者向け](#上級者向け)
+    - [Docker](#docker)
 
 
 # インストール
 
 ## 開発環境 
 
-皆さんのPCに合わせてWindows10,Windows11を想定して解説していきます。
+Windowsを想定して解説していきます。
 
 ## 必須ソフトウェア
 
@@ -61,5 +66,41 @@ https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 
 ## 推奨ソフトウェア 
 
-git
+### git 
 
+https://git-scm.com/
+
+Amicaのクローン(ダウンロード)や本番サーバーにデプロイ(アップロード)する際に使います。
+
+なくても大丈夫ですが、あったほうが安定した開発ができます。
+
+
+### RubyMine
+
+https://www.jetbrains.com/ja-jp/ruby/
+
+統合開発環境です。
+
+Rubyに特化していて圧倒的に使いやすいIDEです。
+
+有料ソフトウェアですが、学生は無料です。絶対に使った方がいい
+
+### VisualStudioCode
+
+https://azure.microsoft.com/ja-jp/products/visual-studio-code/
+
+こちらもコードエディターです。
+
+RubyMineを使わない方はこっちの方がいいと思います。
+
+RubyMineを使用している方も暗号化ファイルを編集するのに使うのでダウンロードしておいたほうがいいかもしれません。
+
+## 上級者向け 
+
+### Docker 
+
+https://www.docker.com/
+
+本アプリケーションの開発にはDockerを用いることもできます。
+
+構築方法は[こちら](docker.md)を御覧ください。
