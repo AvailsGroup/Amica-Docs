@@ -62,7 +62,7 @@ sudo docker-compose run app yarn install
 ```bash
 rm config/credentials.yml.enc
 rm config/master.key
-docker-compose run app EDITOR=vim rails credentials:edit
+docker-compose run -e EDITOR=vim app rails credentials:edit
 ```
 
 ### 起動
