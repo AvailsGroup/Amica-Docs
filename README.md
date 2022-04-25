@@ -26,4 +26,6 @@ SNSやチャットアプリまでできるはずです。
 ## 目次 
 
 - [第1章-はじめに](第1章-はじめに/get_started.md)
+  - [おまけ Dockerでの建て方](第1章-はじめに/docker.md)
 - [第2章-構成](第2章-構成/configuration.md)
+- [第3章-環境構築](第3章-環境構築/get_started2.md)
